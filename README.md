@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEOeho5Wly2-w/profile-displaybackgroundimage-shrink_350_1400/0/1657042918374?e=1675296000&v=beta&t=tAcxZ9OMLmxF1PQuFQCwaVl4lTQSDeKMdCsScPgzlh4)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEOeho5Wly2-w/profile-displaybackgroundimage-shrink_350_1400/0/1657042918374?e=1675296000&v=beta&t=tAcxZ9OMLmxF1PQuFQCwaVl4lTQSDeKMdCsScPgzlh4)
 <h1>Hey👋there, I'm Sonam</h1>
 <h3>A passionate frontend developer from India</h3>
 
